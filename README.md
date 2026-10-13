@@ -193,7 +193,7 @@ flowchart LR
 ### 03. Recursive Fiduccia-Mattheyses (FM) Netlist Partitioning CAD Tool
 **Domain:** Physical Design CAD • Hypergraph Algorithms • EDA Tooling  
 **Tools:** Python, Abstract Syntax Tree Parsing, Tkinter / Matplotlib Dashboard  
-[🔗 GitHub Repository](https://github.com/Sanjay1356/Recursive-FM-Partitioning-Algorithm)
+[🔗 GitHub Repository](https://github.com/dracovishman/Recursive-FM-Partitioning-Algorithm)
 
 > **Summary:** Developed a production-style EDA CAD automation tool implementing a multi-branched, recursive extension of the Fiduccia-Mattheyses (FM) algorithm to partition structural Verilog netlists into balanced hypergraph clusters, minimizing global routing cutsize.
 
