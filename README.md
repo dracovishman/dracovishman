@@ -139,7 +139,7 @@ flowchart LR
 ### 01. ML-KEM-512 Post-Quantum Cryptography Hardware Accelerator
 **Domain:** Hardware Security • Cryptographic Accelerator • Capstone Project  
 **Status:** In Active RTL Development & Module Verification  
-[🔗 GitHub Repository](https://github.com/Shubham-G04/PDI-of-PQC-Accelerator-for-ML-KEM)
+[🔗 GitHub Repository](https://github.com/dracovishman/PDI-of-PQC-Accelerator-for-ML-KEM)
 
 > **Context:** With quantum computing threatening classical asymmetric key exchanges (RSA, ECC), the National Institute of Standards and Technology standardized Module-Lattice-Based Key-Encapsulation Mechanism (**ML-KEM**, NIST FIPS 203). Because polynomial lattice arithmetic and sponge permutations are computationally prohibitive for embedded microcontrollers, hardware coprocessor acceleration is critical.
 
@@ -235,7 +235,7 @@ flowchart LR
 ### 05. Low-Power, Low-Noise CMOS ECG Analog Front-End IC
 **Domain:** Analog IC Design • Biopotential Amplifiers • Custom Silicon  
 **Tools:** Cadence Virtuoso Schematic Editor, Cadence Spectre Simulation Platform  
-[🔗 GitHub Repository](https://github.com/Shubham-G04/Low-Power-Low-Noise-CMOS-ECG-Front-End-IC)
+[🔗 GitHub Repository](https://github.com/dracovishman/Low-Power-Low-Noise-CMOS-ECG-Front-End-IC)
 
 > **Summary:** Designed a high-precision CMOS analog front-end (AFE) circuit targeted for biopotential electrocardiogram (ECG) acquisition, characterized through rigorous transistor-level SPICE simulations.
 
@@ -260,7 +260,7 @@ flowchart LR
 ### 06. 8×8 In-Memory Computing 6T SRAM Array
 **Domain:** Memory Architecture • In-Memory Computing (IMC) • SPICE Characterization  
 **Tools:** Cadence Virtuoso, SPICE Netlisting & Simulation  
-[🔗 GitHub Repository](https://github.com/Shubham-G04/In-Memory-Computing-Applied-on-an-8x8-6T-SRAM-Array)
+[🔗 GitHub Repository](https://github.com/dracovishman/In-Memory-Computing-Applied-on-an-8x8-6T-SRAM-Array)
 
 > **Summary:** Exploratory custom IC design of an $8\times8$ 6-Transistor (6T) SRAM memory core capable of performing localized boolean logic and arithmetic directly on the bitlines, minimizing the memory-access bottleneck.
 
