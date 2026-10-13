@@ -8,10 +8,9 @@
 
 *“Turning logic into silicon, one bit at a time.”*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinayak-salunke-b99145293/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinayak.salunke2025@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dracovishman)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=firefox&logoColor=00F2FE)](YOUR_PORTFOLIO_URL)
 
 </div>
 
@@ -19,13 +18,13 @@
 
 ## 🔬 About Me
 
-I am a final-year undergraduate pursuing my **B.Tech in Electronics Engineering with a specialization in VLSI Design and Technology** at **Vellore Institute of Technology (VIT Chennai)**, graduating in **2027** (*CGPA: 8.65 / 10.0*).
+I am an undergraduate pursuing my **B.Tech in Electronics Engineering with a specialization in VLSI Design and Technology** at **Vellore Institute of Technology (VIT Chennai)**, graduating in **2027** (*CGPA: 8.65 / 10.0*).
 
 My technical journey centers on understanding and designing silicon systems across both the digital and analog domains:
-- **Digital RTL & Architecture:** Translating architectural specifications into synthesizeable Verilog/SystemVerilog, microarchitecting pipelined processor datapaths, and resolving clock-domain crossing (CDC) hazards.
-- **Hardware Acceleration:** Designing modular cryptographic arithmetic units, specifically Post-Quantum Cryptography (PQC) hardware primitives targeting the NIST FIPS 203 (ML-KEM-512) standard.
-- **Analog & Mixed-Signal IC:** Designing CMOS operational transconductance amplifiers (OTAs) and biopotential front-ends with sub-micron transistor sizing, noise optimization, and cell stability analysis.
-- **Design Automation:** Developing Perl and Tcl/Tk scripts to accelerate CAD and synthesis flows, reducing turnaround time during iterative design loops.
+- **Digital RTL & Microarchitecture:** Translating architectural specifications into synthesizeable Verilog/SystemVerilog, pipelined DSP/FIR accelerators, and clock-domain crossing (CDC) synchronizers.
+- **Hardware Acceleration:** Designing modular cryptographic arithmetic units targeting the NIST FIPS 203 (ML-KEM-512) Post-Quantum Cryptography standard, alongside dedicated 2D image-filtering accelerators.
+- **Analog & Mixed-Signal IC:** Designing CMOS operational transconductance amplifiers (OTAs) and biopotential front-ends with sub-micron transistor sizing, noise optimization, and cell stability analysis in Cadence Virtuoso.
+- **EDA & ML Automation:** Developing Python, Perl, and Tcl/Tk automation flows for rapid synthesis turnaround and machine-learning-driven power estimation for digital netlists.
 - **Beyond the Transistor:** When away from waveforms and timing reports, I channel strategic pattern recognition into competitive chess.
 
 ---
@@ -45,13 +44,13 @@ My technical journey centers on understanding and designing silicon systems acro
     </td>
   </tr>
   <tr>
-    <td><strong>Computer Architecture</strong></td>
+    <td><strong>Computer & DSP Architecture</strong></td>
     <td>
       <img src="https://img.shields.io/badge/RISC--V_RV32I-4FACFE?style=flat-square&logoColor=white" />
-      <img src="https://img.shields.io/badge/5--Stage_Pipelined_CPU-1E293B?style=flat-square" />
+      <img src="https://img.shields.io/badge/2D_FIR_Differentiator-1E293B?style=flat-square" />
       <img src="https://img.shields.io/badge/Async_FIFO_(CDC)-1E293B?style=flat-square" />
+      <img src="https://img.shields.io/badge/5--Stage_Pipelined_CPU-1E293B?style=flat-square" />
       <img src="https://img.shields.io/badge/Memory--Mapped_I%2FO-1E293B?style=flat-square" />
-      <img src="https://img.shields.io/badge/Gray_Code_Pointers-1E293B?style=flat-square" />
     </td>
   </tr>
   <tr>
@@ -66,13 +65,13 @@ My technical journey centers on understanding and designing silicon systems acro
     </td>
   </tr>
   <tr>
-    <td><strong>EDA & Verification Suites</strong></td>
+    <td><strong>EDA & Synthesis Suites</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Cadence_Virtuoso-CC0000?style=flat-square&logoColor=white" />
       <img src="https://img.shields.io/badge/Cadence_Spectre-B91C1C?style=flat-square" />
       <img src="https://img.shields.io/badge/Cadence_Genus-B91C1C?style=flat-square" />
       <img src="https://img.shields.io/badge/Cadence_Innovus-B91C1C?style=flat-square" />
-      <img src="https://img.shields.io/badge/Cadence_Incisive-B91C1C?style=flat-square" />
+      <img src="https://img.shields.io/badge/Xilinx_Vivado-E02424?style=flat-square" />
       <img src="https://img.shields.io/badge/Questa_%2F_ModelSim-0284C7?style=flat-square" />
       <img src="https://img.shields.io/badge/GTKWave-334155?style=flat-square" />
       <img src="https://img.shields.io/badge/Icarus_Verilog-334155?style=flat-square" />
@@ -85,10 +84,10 @@ My technical journey centers on understanding and designing silicon systems acro
     <td>
       <img src="https://img.shields.io/badge/Perl-39457E?style=flat-square&logo=perl&logoColor=white" />
       <img src="https://img.shields.io/badge/Tcl%2FTk-1E293B?style=flat-square" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/Bash_Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
       <img src="https://img.shields.io/badge/Git_%26_GitHub-F05032?style=flat-square&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python_(Supporting)-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/C%2B%2B_(Supporting)-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -118,7 +117,7 @@ flowchart LR
     subgraph Digital ["2. Digital RTL Flow"]
         direction TB
         B1["Verilog / SV RTL"] --> B2["RTL Testbench (ModelSim / GTKWave)"]
-        B2 --> B3["Logic Synthesis (Cadence Genus / QFLOW)"]
+        B2 --> B3["Logic Synthesis (Cadence Genus / Vivado)"]
         B3 --> B4["Physical Design (Place & Route / Innovus)"]
     end
 
@@ -138,22 +137,22 @@ flowchart LR
 ## 🚀 Featured Hardware Projects
 
 ### 01. ML-KEM-512 Post-Quantum Cryptography Hardware Accelerator
-**Domain:** Hardware Security • Cryptographic Accelerator • Final-Year Core Project  
+**Domain:** Hardware Security • Cryptographic Accelerator • Capstone Project  
 **Status:** In Active RTL Development & Module Verification  
-[🔗 Repository](YOUR_MLKEM_REPOSITORY_URL)
+[🔗 GitHub Repository](https://github.com/Shubham-G04/PDI-of-PQC-Accelerator-for-ML-KEM)
 
-> **Context:** With quantum computation threatening classical asymmetric key exchanges (RSA, ECC), the National Institute of Standards and Technology standardized Module-Lattice-Based Key-Encapsulation Mechanism (**ML-KEM**, NIST FIPS 203). Because polynomial lattice arithmetic and sponge permutations are computationally heavy for embedded microcontrollers, hardware coprocessor acceleration is critical.
+> **Context:** With quantum computing threatening classical asymmetric key exchanges (RSA, ECC), the National Institute of Standards and Technology standardized Module-Lattice-Based Key-Encapsulation Mechanism (**ML-KEM**, NIST FIPS 203). Because polynomial lattice arithmetic and sponge permutations are computationally prohibitive for embedded microcontrollers, hardware coprocessor acceleration is critical.
 
 <details>
 <summary>🔍 <strong>Deep Dive: Architecture, Datapath & System Integration</strong></summary>
 <br>
 
-* **Problem Statement:** Standard software implementations of ML-KEM-512 suffer from high execution latency on resource-constrained embedded nodes due to repetitive $256$-degree polynomial ring operations over $\mathbb{Z}_q$ ($q = 3329$) and Keccak permutations.
+* **Problem Statement:** Standard software implementations of ML-KEM-512 exhibit high execution latency on resource-constrained embedded nodes due to repetitive $256$-degree polynomial ring operations over $\mathbb{Z}_q$ ($q = 3329$) and Keccak permutations.
 * **Architectural Scope & Modules:**
   * **Sponge Function Primitives:** Verilog implementation of `Keccak-f[1600]` state permutation core to execute `SHAKE-128` and `SHAKE-256` extended output functions (XOF) for matrix generation and pseudorandom seed expansion.
   * **Polynomial Arithmetic Unit:** Modular datapath implementing forward and inverse **Number Theoretic Transform (NTT / INTT)** for $O(n \log n)$ polynomial multiplication over $\mathbb{Z}_{3329}$, alongside modular addition, subtraction, Barrett/Montgomery reduction stages, and polynomial compression/decompression units.
   * **Sampling Subsystems:** RTL logic for Centered Binomial Distribution (`CBD`) sampling from uniform pseudorandom byte streams.
-  * **System-on-Chip Interface:** Architecture target involves memory-mapped register attachment to a 32-bit **RISC-V PicoSoC / PicoRV32** system at base address `0x03000000` via a dedicated bus interface.
+  * **System-on-Chip Interface:** Architecture targets memory-mapped register attachment to a 32-bit **RISC-V PicoSoC / PicoRV32** system at base address `0x03000000` via a dedicated bus interface.
 * **Current Implementation State:**
   * `[Implemented & Verified]` Keccak round permutations and polynomial modular reduction arithmetic testbenches.
   * `[Under Verification]` Pipelined NTT butterfly units and coefficient memory address generator.
@@ -163,49 +162,51 @@ flowchart LR
 
 ---
 
-### 02. Five-Stage Pipelined RISC-V Processor Core (RV32I)
-**Domain:** Processor Microarchitecture • Digital RTL Design  
-**Tools:** Verilog HDL, ModelSim / QuestaSim, GTKWave  
-[🔗 Repository](YOUR_RISCV_REPOSITORY_URL)
+### 02. 5-Tap 2D FIR Edge Detection Accelerator
+**Domain:** Digital Signal Processing • Video Processing • Dual ASIC/FPGA Synthesis  
+**Tools:** Verilog HDL, Cadence Genus 21.14 (GPDK 180nm), Xilinx Vivado 2024.2 (Kintex-7)  
+[🔗 GitHub Repository](https://github.com/dracovishman/5-Tap-2D-FIR-Edge-Detection-Accelerator)
 
-> **Summary:** Implemented a single-hart 32-bit RISC-V processor implementing the RV32I base integer instruction set with a classical five-stage pipeline, hardware hazard resolution, and cycle-accurate functional verification.
+> **Summary:** Designed and synthesized a 5-Tap Separable 2D FIR Digital Differentiator Accelerator for real-time edge detection in computer vision and ADAS, featuring a dual-architecture exploration (3-stage pipelined vs. non-pipelined) evaluated across both ASIC and FPGA flows.
 
 <details>
-<summary>🔍 <strong>Deep Dive: Microarchitecture & Hazard Mitigation Logic</strong></summary>
+<summary>🔍 <strong>Deep Dive: Differentiator Kernel, Pipelining & Dual-Flow PPA</strong></summary>
 <br>
 
-* **Pipeline Structure:** Classical five-stage organization:
-  1. `IF` (Instruction Fetch): Program counter generation, instruction memory interface.
-  2. `ID` (Instruction Decode & Register Fetch): Dual-read register file, immediate decoding.
-  3. `EX` (Execute & ALU): Arithmetic/logical datapath, branch target generation.
-  4. `MEM` (Memory Access): Data memory read/write control with byte/halfword alignment.
-  5. `WB` (Write Back): Multiplexed destination write-back to the register file.
-* **Hazard Resolution Mechanisms:**
-  * **Data Hazards (RAW):** Implemented an EX/MEM-to-EX and MEM/WB-to-EX **forwarding unit** to eliminate pipeline stalls on register dependencies across consecutive arithmetic instructions.
-  * **Load-Use Dependencies:** Integrated hazard detection logic that inserts an automated single-cycle pipeline bubble/stall and holds the PC and IF/ID pipeline registers when an execution operand depends directly on an unresolved memory load.
-  * **Control Hazards:** Flush unit clearing speculative `IF` and `ID` stages upon branch evaluation in the execute stage, reloading the correct non-sequential PC.
-* **Verification Flow:** Comprehensive self-checking Verilog testbench exercising arithmetic operations, data memory dependency chains, nested branches, and tight hazard sequences. Waveforms inspected and validated in ModelSim and GTKWave.
+* **Mathematical Formulation:**
+  * **Odd-Symmetric Kernel:** 1D differentiator impulse response:
+    $$\mathbf{h} = \frac{1}{8} \begin{bmatrix} -1 & -2 & 0 & 2 & 1 \end{bmatrix}$$
+    with zero DC gain ($\sum h[n] = 0$) ensuring complete suppression of low-frequency uniform backgrounds.
+  * **Separable 2D Spatial Filtering:** Decomposed 2D filtering into horizontal ($G_x$) and vertical ($G_y$) operations, drastically minimizing MAC hardware overhead.
+  * **L1 Manhattan Norm Magnitude:** Saturation edge magnitude approximation avoiding hardware square roots:
+    $$|G(i, j)| = \min\big(|G_x(i, j)| + |G_y(i, j)|,\, 255\big)$$
+* **Microarchitectural Variants:**
+  * **3-Stage Pipelined (`fir_2d_edge_pipeline.v`):** Stage 1 tapped-delay buffer, Stage 2 parallel partial product scaling, Stage 3 Carry-Save Adder tree summation with 8-bit saturation clamp. Achieves sustained **1 pixel/cycle throughput**.
+  * **Non-Pipelined (`fir_2d_edge_nopipeline.v`):** Single-cycle combinational datapath optimized for minimal area.
+* **Dual Synthesis & Verification:**
+  * Synthesized on **Cadence Genus (ASIC GPDK 180nm)** targeting 100 MHz operating conditions.
+  * Implemented on **Xilinx Vivado (Kintex-7 `xc7k70tfbv676-1`)** with full VCD waveform verification across flat, step, ramp, and impulse test vectors.
 </details>
 
 ---
 
-### 03. Parameterized Asynchronous FIFO with Clock-Domain Crossing (CDC)
-**Domain:** Asynchronous Logic • Clock-Domain Crossing • Verification  
-**Tools:** Verilog HDL, ModelSim, GTKWave  
-[🔗 Repository](YOUR_ASYNC_FIFO_REPOSITORY_URL)
+### 03. SLAV: ML-Assisted Digital Circuit Power Prediction Framework
+**Domain:** Design Automation (EDA) • Machine Learning for CAD • Simulation Acceleration  
+**Tools:** Python, Feed-Forward Neural Networks, Digital EDA Simulation  
+[🔗 GitHub Repository](https://github.com/dracovishman/slav-neural-network)
 
-> **Summary:** Designed a robust, fully parameterized asynchronous dual-clock FIFO buffer engineered to transfer streaming data reliably across uncorrelated read and write clock domains without data corruption or pointer ambiguity.
+> **Summary:** A research-oriented framework automating simulation, feature extraction, neural network training, and instant power estimation for digital VLSI circuits, bypassing the time-intensive iterations of traditional EDA sign-off tools.
 
 <details>
-<summary>🔍 <strong>Deep Dive: CDC Architecture & Boundary Handling</strong></summary>
+<summary>🔍 <strong>Deep Dive: ML-Assisted CAD Architecture & Iteration Reduction</strong></summary>
 <br>
 
-* **Problem Statement:** Transferring multi-bit binary pointers directly across asynchronous clock domains causes race conditions due to multi-bit bus skew, leading to corrupted pointer states and undetected buffer underflows/overflows.
-* **Microarchitecture Details:**
-  * **Gray-Coded Pointer Conversion:** Read and write address pointers are encoded in Gray code so that only a single bit toggles per memory increment, mitigating multi-bit transition ambiguity.
-  * **Metastability Mitigation:** Pointers are transferred across domains using dual-flip-flop synchronizers (two-flop synchronization stages), dampening metastability settlement failures.
-  * **Status Flag Computation:** Full generation logic computed in the write clock domain using synchronized read pointers; Empty flag calculated in the read clock domain using synchronized write pointers.
-* **Verification Scope:** Rigorous boundary testing under highly asymmetric clock frequencies (e.g., $f_{clk\_write} \gg f_{clk\_read}$ and $f_{clk\_read} \gg f_{clk\_write}$), back-to-back burst transfers, continuous simultaneous read/write cycles, and full/empty boundary edge cases verified in ModelSim/GTKWave.
+* **Problem Statement:** Standard EDA power analysis requires extensive post-synthesis simulations, toggle activity extraction (SAIF/VCD), and long runtimes that severely bottleneck iterative RTL exploration.
+* **Framework Architecture:**
+  * **Automated Feature Extraction:** Automatically parses circuit parameters, toggle counts, gate counts, and architectural features from digital simulations.
+  * **Feed-Forward Neural Network (FFNN):** Multi-layer neural network trained on circuit features to model non-linear dynamic and static power relationships.
+  * **Unified GUI & Workflow:** Integrates testbench execution, automated feature extraction, model inference, and graphical power breakdown into a streamlined engineering suite.
+* **Significance:** Enables rapid architectural exploration and design-space pruning early in the design cycle before running heavy sign-off EDA tooling.
 </details>
 
 ---
@@ -213,7 +214,7 @@ flowchart LR
 ### 04. Low-Power, Low-Noise CMOS ECG Analog Front-End IC
 **Domain:** Analog IC Design • Biopotential Amplifiers • Custom Silicon  
 **Tools:** Cadence Virtuoso Schematic Editor, Cadence Spectre Simulation Platform  
-[🔗 Repository](YOUR_ECG_FRONTEND_REPOSITORY_URL)
+[🔗 GitHub Repository](https://github.com/Shubham-G04/Low-Power-Low-Noise-CMOS-ECG-Front-End-IC)
 
 > **Summary:** Designed a high-precision CMOS analog front-end (AFE) circuit targeted for biopotential electrocardiogram (ECG) acquisition, characterized through rigorous transistor-level SPICE simulations.
 
@@ -238,7 +239,7 @@ flowchart LR
 ### 05. 8×8 In-Memory Computing 6T SRAM Array
 **Domain:** Memory Architecture • In-Memory Computing (IMC) • SPICE Characterization  
 **Tools:** Cadence Virtuoso, SPICE Netlisting & Simulation  
-[🔗 Repository](YOUR_SRAM_REPOSITORY_URL)
+[🔗 GitHub Repository](https://github.com/Shubham-G04/In-Memory-Computing-Applied-on-an-8x8-6T-SRAM-Array)
 
 > **Summary:** Exploratory custom IC design of an $8\times8$ 6-Transistor (6T) SRAM memory core capable of performing localized boolean logic and arithmetic directly on the bitlines, minimizing the memory-access bottleneck.
 
@@ -257,30 +258,57 @@ flowchart LR
 
 ---
 
-### 06. FPGA Feed-Forward Neural Network Accelerator & Automation Flow
-**Domain:** Reconfigurable Computing • Digital Datapath • EDA Automation  
-**Tools:** Verilog HDL, FPGA Flow, Perl, Tcl/Tk  
-**Status:** In Development (Hardware Core) • Automated Flow Operational  
-[🔗 Repository](YOUR_FPGA_NN_REPOSITORY_URL)
+### 06. Five-Stage Pipelined RISC-V Processor Core (RV32I)
+**Domain:** Processor Microarchitecture • Digital RTL Design  
+**Tools:** Verilog HDL, ModelSim / QuestaSim, GTKWave  
+*Status: Verification Complete • Repository Releasing Soon*
 
-> **Summary:** A parameterized fixed-point neural network inference engine targeting FPGA deployment, integrated with a scripted automation framework that significantly cuts iterative compilation and verification loops.
+> **Summary:** Implemented a single-hart 32-bit RISC-V processor implementing the RV32I base integer instruction set with a classical five-stage pipeline, hardware hazard resolution, and cycle-accurate functional verification.
 
 <details>
-<summary>🔍 <strong>Deep Dive: Architecture & Scripted Automation Framework</strong></summary>
+<summary>🔍 <strong>Deep Dive: Microarchitecture & Hazard Mitigation Logic</strong></summary>
 <br>
 
-* **Accelerator Concept (In Progress):** Parameterized Verilog datapath comprising pipelined multiply-accumulate (MAC) processing elements, fixed-point quantization, and hardware activation function evaluation for low-latency edge inference.
-* **EDA Flow Automation (Operational Achievement):**
-  * Developed custom **Perl and Tcl scripts** to fully automate the design lifecycle: source file tracking, automated testbench batch runs, synthesis script generation, constraint application, and log/timing parsing.
-  * **Empirical Engineering Metric:** Achieved a verified **70% reduction in iteration turnaround time** compared to manual GUI-based synthesis and verification iterations.
+* **Pipeline Structure:** Classical five-stage organization:
+  1. `IF` (Instruction Fetch): Program counter generation, instruction memory interface.
+  2. `ID` (Instruction Decode & Register Fetch): Dual-read register file, immediate decoding.
+  3. `EX` (Execute & ALU): Arithmetic/logical datapath, branch target generation.
+  4. `MEM` (Memory Access): Data memory read/write control with byte/halfword alignment.
+  5. `WB` (Write Back): Multiplexed destination write-back to the register file.
+* **Hazard Resolution Mechanisms:**
+  * **Data Hazards (RAW):** Implemented an EX/MEM-to-EX and MEM/WB-to-EX **forwarding unit** to eliminate pipeline stalls on register dependencies across consecutive arithmetic instructions.
+  * **Load-Use Dependencies:** Integrated hazard detection logic that inserts an automated single-cycle pipeline bubble/stall and holds the PC and IF/ID pipeline registers when an execution operand depends directly on an unresolved memory load.
+  * **Control Hazards:** Flush unit clearing speculative `IF` and `ID` stages upon branch evaluation in the execute stage, reloading the correct non-sequential PC.
+* **Verification Flow:** Comprehensive self-checking Verilog testbench exercising arithmetic operations, data memory dependency chains, nested branches, and tight hazard sequences. Waveforms inspected and validated in ModelSim and GTKWave.
 </details>
 
 ---
 
-### 07. Fabric-Based Flexible Piezoresistive Pressure Sensor
+### 07. Parameterized Asynchronous FIFO with Clock-Domain Crossing (CDC)
+**Domain:** Asynchronous Logic • Clock-Domain Crossing • Verification  
+**Tools:** Verilog HDL, ModelSim, GTKWave  
+*Status: Verification Complete • Repository Releasing Soon*
+
+> **Summary:** Designed a robust, fully parameterized asynchronous dual-clock FIFO buffer engineered to transfer streaming data reliably across uncorrelated read and write clock domains without data corruption or pointer ambiguity.
+
+<details>
+<summary>🔍 <strong>Deep Dive: CDC Architecture & Boundary Handling</strong></summary>
+<br>
+
+* **Problem Statement:** Transferring multi-bit binary pointers directly across asynchronous clock domains causes race conditions due to multi-bit bus skew, leading to corrupted pointer states and undetected buffer underflows/overflows.
+* **Microarchitecture Details:**
+  * **Gray-Coded Pointer Conversion:** Read and write address pointers are encoded in Gray code so that only a single bit toggles per memory increment, mitigating multi-bit transition ambiguity.
+  * **Metastability Mitigation:** Pointers are transferred across domains using dual-flip-flop synchronizers (two-flop synchronization stages), dampening metastability settlement failures.
+  * **Status Flag Computation:** Full generation logic computed in the write clock domain using synchronized read pointers; Empty flag calculated in the read clock domain using synchronized write pointers.
+* **Verification Scope:** Rigorous boundary testing under highly asymmetric clock frequencies ($f_{clk\_write} \gg f_{clk\_read}$ and $f_{clk\_read} \gg f_{clk\_write}$), back-to-back burst transfers, continuous simultaneous read/write cycles, and full/empty boundary edge cases.
+</details>
+
+---
+
+### 08. Fabric-Based Flexible Piezoresistive Pressure Sensor
 **Domain:** Flexible Electronics • Transducer Materials • Interdisciplinary Engineering  
 **Tools:** Material Characterization, Piezoresistive Data Acquisition Setup  
-[🔗 Repository](YOUR_PRESSURE_SENSOR_REPOSITORY_URL)
+*Status: Characterized Prototype*
 
 > **Summary:** Interdisciplinary hardware and materials project developing a wearable piezoresistive pressure sensor using nanomaterial-coated conductive textiles for tactile and biometric sensing.
 
@@ -296,34 +324,6 @@ flowchart LR
   * **Dynamic Response Time:** Approximately **~17 ms** response time demonstrated under rapid loading/unloading cycles.
   * Successfully captured biomechanical motion waveforms during finger-bending, wrist-articulation, and calibrated mechanical load tests.
 </details>
-
----
-
-### 08. Physical Design of SPI Block via QFLOW
-**Domain:** ASIC Physical Design Flow • Place & Route • Synthesis  
-**Tools:** QFLOW Open-Source Toolchain (Yosys, Graywolf, Qrouter, Magic)  
-[🔗 Repository](YOUR_NETLIST_TOOL_REPOSITORY_URL)
-
-> **Summary:** Hands-on implementation of the full RTL-to-GDSII physical design flow for a Serial Peripheral Interface (SPI) IP block as part of structured VLSI training at Maven Silicon.
-
-<details>
-<summary>🔍 <strong>Deep Dive: RTL-to-Layout ASIC Flow Stages</strong></summary>
-<br>
-
-* **Design Methodology:**
-  1. **RTL Synthesis:** Logic synthesis of the Verilog SPI core using Yosys to map behavioral code into target standard cell gate primitives.
-  2. **Floorplanning & Placement:** Boundary pin assignment, power grid network definition, and standard cell placement using Graywolf.
-  3. **Clock Tree & Routing:** Detailed multi-layer routing with Qrouter to achieve global and local interconnections.
-  4. **Design Rule & Layout Extraction:** Layout verification and geometric checks using Magic VLSI.
-* **Engineering Insight:** Practical exposure to the interplay between logical design, timing constraints, cell density, and routing congestion closure.
-</details>
-
----
-
-## 🔬 Additional Engineering Tools & Experiments
-
-- **Netlist Partitioning Automation:** Python utility developed to parse structural netlists and apply graph partitioning algorithms for modular sub-block isolation during large-scale CAD exploration. [Repository placeholder / In Progress]
-- **Embedded Sensor DAQ Modules:** Modular microcontroller-based data acquisition nodes (Arduino UNO, MPU6050 6-DoF IMU, BMP280 barometric sensor, NEO-6M GPS) developed for physical transducer testing and telemetry capture.
 
 ---
 
@@ -346,7 +346,7 @@ flowchart LR
 - [x] **Post-Quantum Cryptographic Hardware:** Completing modular datapath verification for polynomial ring arithmetic and NTT acceleration (FIPS 203 ML-KEM-512).
 - [x] **Clock-Domain Crossing (CDC) Reliability:** Deepening functional coverage patterns and structural synchronization strategies for multi-clock SoCs.
 - [x] **Low-Power Analog CMOS Topologies:** Exploring sub-threshold biasing and low-noise operational amplifier techniques for ultra-low-power biomedical sensing.
-- [x] **EDA Scripting & Flow Automation:** Expanding reusable Tcl/Tk and Perl automation harnesses for repeatable simulation and synthesis flows.
+- [x] **EDA Scripting & Flow Automation:** Expanding reusable Tcl/Tk, Perl, and Python automation harnesses for repeatable simulation and synthesis flows.
 
 ---
 
@@ -356,10 +356,9 @@ flowchart LR
 
 | Platform | Direct Link |
 | :--- | :--- |
-| **LinkedIn** | [linkedin.com/in/YOUR_LINKEDIN_URL](YOUR_LINKEDIN_URL) |
+| **LinkedIn** | [linkedin.com/in/vinayak-salunke-b99145293](https://www.linkedin.com/in/vinayak-salunke-b99145293/) |
 | **Email** | [vinayak.salunke2025@gmail.com](mailto:vinayak.salunke2025@gmail.com) |
 | **GitHub** | [github.com/dracovishman](https://github.com/dracovishman) |
-| **Portfolio** | [YOUR_PORTFOLIO_URL](YOUR_PORTFOLIO_URL) |
 
 </div>
 
