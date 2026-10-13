@@ -356,7 +356,7 @@ flowchart LR
 
 | Platform | Direct Link |
 | :--- | :--- |
-| **LinkedIn** | [linkedin.com/in/YOUR_LINKEDIN_URL](YOUR_LINKEDIN_URL) |
+| **LinkedIn** | [linkedin.com/in/YOUR_LINKEDIN_URL]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/vinayak-salunke-b99145293/)) |
 | **Email** | [vinayak.salunke2025@gmail.com](mailto:vinayak.salunke2025@gmail.com) |
 | **GitHub** | [github.com/dracovishman](https://github.com/dracovishman) |
 | **Portfolio** | [YOUR_PORTFOLIO_URL](YOUR_PORTFOLIO_URL) |
