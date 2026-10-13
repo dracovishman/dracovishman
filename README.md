@@ -24,7 +24,7 @@ My technical journey centers on understanding and designing silicon systems acro
 - **Digital RTL & Microarchitecture:** Translating architectural specifications into synthesizeable Verilog/SystemVerilog, pipelined DSP/FIR accelerators, and clock-domain crossing (CDC) synchronizers.
 - **Hardware Acceleration:** Designing modular cryptographic arithmetic units targeting the NIST FIPS 203 (ML-KEM-512) Post-Quantum Cryptography standard, alongside dedicated 2D image-filtering accelerators.
 - **Analog & Mixed-Signal IC:** Designing CMOS operational transconductance amplifiers (OTAs) and biopotential front-ends with sub-micron transistor sizing, noise optimization, and cell stability analysis in Cadence Virtuoso.
-- **EDA & ML Automation:** Developing Python, Perl, and Tcl/Tk automation flows for rapid synthesis turnaround and machine-learning-driven power estimation for digital netlists.
+- **EDA & CAD Automation:** Developing Python, Perl, and Tcl/Tk automation flows for recursive netlist graph partitioning, synthesis acceleration, and ML-assisted circuit power modeling.
 - **Beyond the Transistor:** When away from waveforms and timing reports, I channel strategic pattern recognition into competitive chess.
 
 ---
@@ -80,11 +80,11 @@ My technical journey centers on understanding and designing silicon systems acro
     </td>
   </tr>
   <tr>
-    <td><strong>Automation & Scripting</strong></td>
+    <td><strong>Automation & CAD Development</strong></td>
     <td>
+      <img src="https://img.shields.io/badge/Python_(EDA_CAD)-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/Perl-39457E?style=flat-square&logo=perl&logoColor=white" />
       <img src="https://img.shields.io/badge/Tcl%2FTk-1E293B?style=flat-square" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/Bash_Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
       <img src="https://img.shields.io/badge/Git_%26_GitHub-F05032?style=flat-square&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
@@ -134,7 +134,7 @@ flowchart LR
 
 ---
 
-## 🚀 Featured Hardware Projects
+## 🚀 Featured Hardware & EDA Projects
 
 ### 01. ML-KEM-512 Post-Quantum Cryptography Hardware Accelerator
 **Domain:** Hardware Security • Cryptographic Accelerator • Capstone Project  
@@ -190,7 +190,28 @@ flowchart LR
 
 ---
 
-### 03. SLAV: ML-Assisted Digital Circuit Power Prediction Framework
+### 03. Recursive Fiduccia-Mattheyses (FM) Netlist Partitioning CAD Tool
+**Domain:** Physical Design CAD • Hypergraph Algorithms • EDA Tooling  
+**Tools:** Python, Abstract Syntax Tree Parsing, Tkinter / Matplotlib Dashboard  
+[🔗 GitHub Repository](https://github.com/Sanjay1356/Recursive-FM-Partitioning-Algorithm)
+
+> **Summary:** Developed a production-style EDA CAD automation tool implementing a multi-branched, recursive extension of the Fiduccia-Mattheyses (FM) algorithm to partition structural Verilog netlists into balanced hypergraph clusters, minimizing global routing cutsize.
+
+<details>
+<summary>🔍 <strong>Deep Dive: Netlist AST Parser, Gain Engine & Recursive Slicing</strong></summary>
+<br>
+
+* **Motivation:** In physical design, partitioning multi-thousand gate netlists into balanced blocks is fundamental to floorplanning and reducing inter-block wiring congestion.
+* **Architecture & Modules:**
+  * **Structural Netlist Parser (`parser.py`, `fm_driver.py`):** Ingests gate-level Verilog netlists, extracting cell connectivity into an internal hypergraph representation of cells, nets, and pins.
+  * **Core Heuristic Engine (`fm_core.py`):** Computes cell movement gain ($g = FS - TE$), locks moved cells to prevent limit cycles, and balances partition boundaries within strict area tolerances.
+  * **Recursive Multi-Way Slicing:** Recursively applies bi-partitioning in a hierarchical tree structure to produce multi-way balanced partitions.
+  * **Interactive Visual Dashboard (`fm_gui.py`):** Tkinter and Matplotlib interface displaying live convergence plots, cutsize reduction trends, and final block hierarchy distributions.
+</details>
+
+---
+
+### 04. SLAV: ML-Assisted Digital Circuit Power Prediction Framework
 **Domain:** Design Automation (EDA) • Machine Learning for CAD • Simulation Acceleration  
 **Tools:** Python, Feed-Forward Neural Networks, Digital EDA Simulation  
 [🔗 GitHub Repository](https://github.com/dracovishman/slav-neural-network)
@@ -211,7 +232,7 @@ flowchart LR
 
 ---
 
-### 04. Low-Power, Low-Noise CMOS ECG Analog Front-End IC
+### 05. Low-Power, Low-Noise CMOS ECG Analog Front-End IC
 **Domain:** Analog IC Design • Biopotential Amplifiers • Custom Silicon  
 **Tools:** Cadence Virtuoso Schematic Editor, Cadence Spectre Simulation Platform  
 [🔗 GitHub Repository](https://github.com/Shubham-G04/Low-Power-Low-Noise-CMOS-ECG-Front-End-IC)
@@ -236,7 +257,7 @@ flowchart LR
 
 ---
 
-### 05. 8×8 In-Memory Computing 6T SRAM Array
+### 06. 8×8 In-Memory Computing 6T SRAM Array
 **Domain:** Memory Architecture • In-Memory Computing (IMC) • SPICE Characterization  
 **Tools:** Cadence Virtuoso, SPICE Netlisting & Simulation  
 [🔗 GitHub Repository](https://github.com/Shubham-G04/In-Memory-Computing-Applied-on-an-8x8-6T-SRAM-Array)
@@ -258,7 +279,7 @@ flowchart LR
 
 ---
 
-### 06. Five-Stage Pipelined RISC-V Processor Core (RV32I)
+### 07. Five-Stage Pipelined RISC-V Processor Core (RV32I)
 **Domain:** Processor Microarchitecture • Digital RTL Design  
 **Tools:** Verilog HDL, ModelSim / QuestaSim, GTKWave  
 *Status: Verification Complete • Repository Releasing Soon*
@@ -284,7 +305,7 @@ flowchart LR
 
 ---
 
-### 07. Parameterized Asynchronous FIFO with Clock-Domain Crossing (CDC)
+### 08. Parameterized Asynchronous FIFO with Clock-Domain Crossing (CDC)
 **Domain:** Asynchronous Logic • Clock-Domain Crossing • Verification  
 **Tools:** Verilog HDL, ModelSim, GTKWave  
 *Status: Verification Complete • Repository Releasing Soon*
@@ -305,7 +326,7 @@ flowchart LR
 
 ---
 
-### 08. Fabric-Based Flexible Piezoresistive Pressure Sensor
+### 09. Fabric-Based Flexible Piezoresistive Pressure Sensor
 **Domain:** Flexible Electronics • Transducer Materials • Interdisciplinary Engineering  
 **Tools:** Material Characterization, Piezoresistive Data Acquisition Setup  
 *Status: Characterized Prototype*
